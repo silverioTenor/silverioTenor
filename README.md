@@ -1,86 +1,22 @@
-# Hi there, I'm Rodrigo Silvério 👋
+# Hi there, I'm Rodrigo 👋
 
-**Backend Developer | Go • Java • TypeScript**
+Backend Developer specialized in Go, Java and TypeScript.
 
-I build reliable backend applications with a focus on clean architecture, scalability and maintainable code.
+I build reliable backend systems and REST APIs.
 
-> 🚀 Currently available for freelance backend projects.
+> 🚀 Available for freelance backend projects.
 
----
+## Tech
 
-# 💼 What I Do
+Go • Java • TypeScript • Docker • Kafka • PostgreSQL
 
-I help businesses build, improve and maintain backend systems.
-
-Some of the services I provide:
-
-- REST API Development
-- Backend Bug Fixes
-- API Integrations
-- Docker Containerization
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- Backend Refactoring
-- CLI Automation
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-- Go
-- Java
-- TypeScript
-- JavaScript
-
-### Backend
+## I can help with
 
 - REST APIs
-- Node.js
-- Spring Boot
-- Express
-
-### Infrastructure
-
+- Backend Development
 - Docker
-- Kafka
-- PostgreSQL
-- Git
-
----
-
-# ⭐ Featured Projects
-
-## 📚 Library Express
-
-Library management backend built with Java, focusing on Clean Architecture and DDD.
-
----
-
-## 🛒 API Anual Shop
-
-Backend API developed with TypeScript following scalable architecture principles.
-
----
-
-## 🧩 Hexagonal Architecture in Go
-
-Study project demonstrating Hexagonal Architecture using Go.
-
----
-
-## 🏛 DDD & Clean Architecture
-
-Collection of practical backend architecture patterns.
-
----
-
-# 📫 Contact
-
-- LinkedIn
-- Email
-
----
+- API Integrations
+- Bug Fixes
+- Clean Architecture
 
 Thanks for visiting my profile! 🚀
