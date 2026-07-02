@@ -2,13 +2,11 @@
 
 Backend Developer specialized in Go, Java and TypeScript.
 
-I build reliable backend systems and REST APIs.
-
-> 🚀 Available for freelance backend projects.
+I build scalable backend systems.
 
 ## Tech
 
-Go • Java • TypeScript • Docker • Kafka • PostgreSQL
+| TypeScript | Java | Go | REST APIs | Docker | 
 
 ## I can help with
 
