@@ -1,6 +1,6 @@
 # Hi there, I'm Rodrigo 👋
 
-Backend Developer specialized in Go, Java and TypeScript.
+Backend Developer specialized in Java and TypeScript.
 
 I build scalable backend systems.
 
